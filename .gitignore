@@ -1,0 +1,7 @@
+#Ignore all KiCAD backup files
+*.sch-bak
+#Ignore all ReadMe files
+*.md
+
+
+
