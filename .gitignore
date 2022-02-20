@@ -1,5 +1,6 @@
 #Ignore all KiCAD backup files
 *.sch-bak
+*.lib
 #Ignore all ReadMe files
 *.md
 
