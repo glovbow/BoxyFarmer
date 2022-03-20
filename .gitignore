@@ -1,7 +1,9 @@
-#Ignore all KiCAD backup files
+#Ignore KiCAD files
 *.sch-bak
 *.lib
 *.zip
+**/boxyfarmer-backups
+
 #Ignore all ReadMe files
 *.md
 
